@@ -1,7 +1,6 @@
-![logo](https://i.ibb.co.com/MD82dxv3/image-2025-02-14-18-46-19.png)
+![image_2025-02-14_18-46-19](https://github.com/user-attachments/assets/8327071c-5024-4bea-9c1b-190eca4b8b36)
 
-# JSWord
-
+# Jsword
 Build custom wordlist by extracting word from remote/local javascript or html page.
 
 ## Installation
